@@ -1,0 +1,2 @@
+# ai-topic
+about rnn
